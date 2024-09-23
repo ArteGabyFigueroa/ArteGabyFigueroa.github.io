@@ -1,9 +1,9 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/gabriela/docs/T. I. 2/Página Web/P W 2024 /www/artegabyfigueroa.github.io",
+	"sourceRoot": "/Users/gabriela/docs/T. I. 2/Página Web/P W 2024 /www/artegabyfigueroa.github.io",
 	"sources": [
-		"themes/hugo-clarity/assets/sass/main.sass",
+		"/Users/gabriela/docs/T. I. 2/Página Web/P W 2024 /www/artegabyfigueroa.github.io/themes/hugo-clarity/assets/sass/main.sass",
 		"../../../../Página Web/P W 2024 /www/artegabyfigueroa.github.io/themes/hugo-clarity/assets/sass/_variables.sass",
 		"../../../../Página Web/P W 2024 /www/artegabyfigueroa.github.io/themes/hugo-clarity/assets/sass/_override.sass",
 		"../../../../Página Web/P W 2024 /www/artegabyfigueroa.github.io/themes/hugo-clarity/assets/sass/_fonts.sass",
