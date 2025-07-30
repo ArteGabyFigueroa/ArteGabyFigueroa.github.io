@@ -2,12 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://artegabyfigueroa.github.io/</loc>
-    <lastmod>2025-07-30T00:00:00-03:00</lastmod>
+    <loc>https://artegabyfigueroa.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://artegabyfigueroa.github.io/es/"
+                href="https://artegabyfigueroa.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,202 +16,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://artegabyfigueroa.github.io/"
+                href="https://artegabyfigueroa.github.io/en/"
                 />
   </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2025-07-30-abstraccion-y-fruicion-cromatica-como-potencialidad-pura/</loc>
-    <lastmod>2025-07-30T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/cecilia-mortola/</loc>
-    <lastmod>2025-07-30T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/</loc>
-    <lastmod>2025-07-30T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/post/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/</loc>
-    <lastmod>2025-07-30T00:00:00-03:00</lastmod>
+    <loc>https://artegabyfigueroa.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://artegabyfigueroa.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/educaci%C3%B3n-en-argentina/</loc>
-    <lastmod>2024-10-09T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2024-10-09-escuela-en-argentina-sqool-tv/</loc>
-    <lastmod>2024-10-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/post/2024-10-09-escuela-en-argentina-sqool-tv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/post/2024-10-09-escuela-en-argentina-sqool-tv/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/sqool-tv/</loc>
-    <lastmod>2024-10-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/tags/sqool-tv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/tags/sqool-tv/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/streaming/</loc>
-    <lastmod>2024-10-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/tags/streaming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/tags/streaming/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://artegabyfigueroa.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://artegabyfigueroa.github.io/about/"
-                />
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/andrea-giunta/</loc>
-    <lastmod>2018-09-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/cr%C3%ADtica-de-obra/</loc>
-    <lastmod>2018-09-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2018-09-13-mujeres-radicales-arte-latinoamericano-reescritura-canon/</loc>
-    <lastmod>2018-09-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/radical-women/</loc>
-    <lastmod>2018-09-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/diana-randazzo/</loc>
-    <lastmod>2017-10-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2017-10-15-honrar-la-belleza/</loc>
-    <lastmod>2017-10-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/texto-curatorial/</loc>
-    <lastmod>2017-10-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/luoke-chen/</loc>
-    <lastmod>2017-09-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2017-09-04-un-puente-entre-oriente-y-occidente/</loc>
-    <lastmod>2017-09-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/muestra-inaugural/</loc>
-    <lastmod>2017-08-07T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2017-08-07-polifonias-visuales/</loc>
-    <lastmod>2017-08-07T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/andr%C3%A9s-sobrino/</loc>
-    <lastmod>2017-03-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2017-03-29-mas-alla-de-la-geometria-y-el-cromatismo/</loc>
-    <lastmod>2017-03-29T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2017-03-22-la-alcoba-de-louise-bourgeois/</loc>
-    <lastmod>2017-03-22T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/luis-bourgois/</loc>
-    <lastmod>2017-03-22T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/mirella-musri/</loc>
-    <lastmod>2016-11-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/presentaci%C3%B3n-de-muestra/</loc>
-    <lastmod>2016-11-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2016-11-11-refugios/</loc>
-    <lastmod>2016-11-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/refugios/</loc>
-    <lastmod>2016-11-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/tanta-tinta/</loc>
-    <lastmod>2015-09-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2015-09-01-tanta-tinta-y-acuarela-al-servicio-del-talento/</loc>
-    <lastmod>2015-09-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/vladimir-merchensky-arias/</loc>
-    <lastmod>2015-09-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2015-06-01-eleccion-personal/</loc>
-    <lastmod>2015-06-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/federico-porfiri/</loc>
-    <lastmod>2015-06-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/augusto-moreno/</loc>
-    <lastmod>2015-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2015-04-01-redes/</loc>
-    <lastmod>2015-04-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2014-08-01-arte-ilustrado/</loc>
-    <lastmod>2014-08-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/juan-pablo-caro/</loc>
-    <lastmod>2014-08-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/pablo-zweig/</loc>
-    <lastmod>2014-08-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/tags/alejandro-puente/</loc>
-    <lastmod>2014-05-18T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/post/2014-05-18-sensibilidad-geometrica-y-armonia-cromatica/</loc>
-    <lastmod>2014-05-18T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://artegabyfigueroa.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://artegabyfigueroa.github.io/es/categories/"
+                href="https://artegabyfigueroa.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -222,14 +33,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://artegabyfigueroa.github.io/categories/"
+                href="https://artegabyfigueroa.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://artegabyfigueroa.github.io/series/</loc>
+    <loc>https://artegabyfigueroa.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://artegabyfigueroa.github.io/es/series/"
+                href="https://artegabyfigueroa.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -239,7 +50,24 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://artegabyfigueroa.github.io/series/"
+                href="https://artegabyfigueroa.github.io/en/series/"
+                />
+  </url><url>
+    <loc>https://artegabyfigueroa.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://artegabyfigueroa.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://artegabyfigueroa.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://artegabyfigueroa.github.io/en/tags/"
                 />
   </url>
 </urlset>
