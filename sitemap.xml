@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://artegabyfigueroa.github.io/es/sitemap.xml</loc>
-    
-      <lastmod>2025-07-30T00:00:00-03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://artegabyfigueroa.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://artegabyfigueroa.github.io/fr/sitemap.xml</loc>
-    
-      <lastmod>2024-10-09T00:00:00-03:00</lastmod>
-    
-  </sitemap>
-  
+	
+		<sitemap>
+			<loc>https://artegabyfigueroa.github.io/es/sitemap.xml</loc>
+			
+				<lastmod>2026-06-10T00:00:00-03:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://artegabyfigueroa.github.io/fr/sitemap.xml</loc>
+			
+				<lastmod>2024-10-09T00:00:00-03:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://artegabyfigueroa.github.io/en/sitemap.xml</loc>
+			
+		</sitemap>
+	
 </sitemapindex>
